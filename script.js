@@ -22,7 +22,7 @@ const translateText = async () => {
                 headers: {
                     "content-type": "application/x-www-form-urlencoded",
                     "x-rapidapi-host": "google-translate1.p.rapidapi.com",
-                    "x-rapidapi-key": "0567c2b555msh8008cc78c26f0ecp129a2djsne9e9093524dd",
+                    "x-rapidapi-key": "df5561d42dmsh43e2f7f993c79d1p1246d6jsnb5063bf72a3c",
                 },
                 body: new URLSearchParams({
                     q: text,
